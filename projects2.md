@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  Thesis
+title:  Projects
 date:   2018-12-09
 excerpt: "This is my thesis"
 tag:

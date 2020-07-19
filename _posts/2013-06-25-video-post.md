@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A Post with a Video"
-date:   2016-03-15
+title:  "TRPNEP 2018"
+date:   2018-12-09
 excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
 tag:
 - sample
@@ -9,12 +9,6 @@ tag:
 - video
 comments: true
 ---
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/ConFuY7Lh3o" frameborder="0"> </iframe>
 
-Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
-
-Not sure if this only effects Kramdown or if it's an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the `<iframe>` tags and remove `allowfullscreen`. Example below:
-
-{% highlight html %}
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
-{% endhighlight %}
+This video was created for the recap of The 1st ASEAN - Japan Meeting Point of Collaboration by Stakeholder and Researchers for Reducing Environmental Problems in ASEAN Countries (TRPNEP 2018).
